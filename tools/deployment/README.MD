@@ -9,7 +9,7 @@ uv pip install rknn-toolkit2 -i https://pypi.mirrors.ustc.edu.cn/simple/
 uv pip install -r requirements.txt -i https://pypi.mirrors.ustc.edu.cn/simple/
 ```
 
-# 2、下载pth偶像
+# 2、下载pth模型
 | Model | Dataset | AP | #Params | GFLOPs | Latency (ms) | config | Hugging Face | checkpoint | log |
 | :---: | :---: | :---: | :---: | :---: |:------------:| :---: | :---: | :---: | :---: |
 | **Atto** | COCO | **23.8** | 0.5M | 0.8 | 1.10 | [yml](./configs/deimv2/deimv2_hgnetv2_atto_coco.yml) | [huggingface](https://huggingface.co/Intellindust/DEIMv2_HGNetv2_ATTO_COCO) | [Google](https://drive.google.com/file/d/18sRJXX3FBUigmGJ1y5Oo_DPC5C3JCgYc/view?usp=sharing) / [Quark](https://pan.quark.cn/s/04c997582fca) | [Google](https://drive.google.com/file/d/1M7FLN8EeVHG02kegPN-Wxf_9BlkghZfj/view?usp=sharing) / [Quark](https://pan.quark.cn/s/7bf3548d3e10) |
