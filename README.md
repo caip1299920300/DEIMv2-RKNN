@@ -83,7 +83,7 @@
 
 ## 0、RKNN模块
 
-`[导出onnx和rknn](./tools/deployment/README.MD#基础模型)`
+[导出onnx和rknn](./tools/deployment/README.MD#基础模型)
 
 ## 1. 模型库
 
